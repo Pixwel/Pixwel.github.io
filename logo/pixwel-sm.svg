@@ -1,0 +1,17 @@
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="pixwelSm_0" gradientUnits="userSpaceOnUse" x1="2653.553" y1="498.7955" x2="2653.553" y2="576.475" gradientTransform="matrix(-1 0 0 -1 2750.478 618)">
+			<stop offset="0" stop-color="#fff" />
+			<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="pixwelSm_1" gradientUnits="userSpaceOnUse" x1="63.075" y1="524.5455" x2="63.075" y2="580.9" gradientTransform="matrix(1 0 0 -1 0 618)">
+			<stop offset="0" stop-color="#fff" />
+			<stop offset="1" stop-color="#000" />
+		</linearGradient>
+	</defs>
+	<g>
+		<rect width="160" height="160"/>
+		<path d="M60,121.6h-6.1l57.2-83.1H140L60,121.6z" fill="url(#pixwelSm_0)"/>
+		<path d="M99.7,121.6h6.4L48.9,38.5H20L99.7,121.6z" fill="url(#pixwelSm_1)"/>
+	</g>
+</svg>
